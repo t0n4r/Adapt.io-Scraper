@@ -28,9 +28,7 @@ I have also added **Similar Companies** to the data which might help to group co
 ## Technical Feasibility
 I had to run multiple test crawls to investigate whether there will be problems scraping the data. The website tends to show *“Sorry, we're down for maintenance. :( Thanks for your patience, will be right back!”* when the website is visited repeatedly in a short amount of time. This is easier to counter than other forms of anti-bot countermeasures like captchas. The problem was solved by adding a sleep time to the scraper.
 
+
 I have scraped all of the A companies which took about an hour and 51 minutes.
 
-
-## Database Engine
-I have chosen MongoDB as the database engine because the documents in MongoDB are human-readable. Both structured and unstructured data can be stored in the same document.
-
+> The plan is to decrease the time of the scraping down to 1/4th of the time stated above.
