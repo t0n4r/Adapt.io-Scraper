@@ -1,5 +1,4 @@
-# Leadbook-Data-Crawling-Assessment
-###### A webscraper for the site: adapt.io
+# A webscraper for the site: adapt.io
 
 In this project, I was asked to scrap company listings from the website: adapt.io
 
